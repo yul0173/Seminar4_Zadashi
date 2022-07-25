@@ -1,0 +1,15 @@
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\bin\Debug\net6.0\Zadasha2.exe
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\bin\Debug\net6.0\Zadasha2.deps.json
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\bin\Debug\net6.0\Zadasha2.runtimeconfig.json
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\bin\Debug\net6.0\Zadasha2.dll
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\bin\Debug\net6.0\Zadasha2.pdb
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\Zadasha2.csproj.AssemblyReference.cache
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\Zadasha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\Zadasha2.AssemblyInfoInputs.cache
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\Zadasha2.AssemblyInfo.cs
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\Zadasha2.csproj.CoreCompileInputs.cache
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\Zadasha2.dll
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\refint\Zadasha2.dll
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\Zadasha2.pdb
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\Zadasha2.genruntimeconfig.cache
+C:\Windows\System32\config\systemprofile\Desktop\Seminar4_Zadashi\Zadashi\Zadasha2\obj\Debug\net6.0\ref\Zadasha2.dll
